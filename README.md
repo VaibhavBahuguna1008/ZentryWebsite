@@ -11,6 +11,8 @@ Focus on delivering a modern, luxurious feel with an engaging UI/UX design and s
 ![image](https://github.com/user-attachments/assets/c06c9d77-819d-489d-8c22-98303d94faac)
 ![image](https://github.com/user-attachments/assets/38a7fba5-f505-496f-bb10-fe8f95ef3b98)
 
+**Live Demo:** https://zentry-website.vercel.app/
+
 ## Features
 
 - **Smooth Navigation:** Includes smooth scrolling and navigation to different sections of the landing page.
